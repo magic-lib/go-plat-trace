@@ -7,7 +7,6 @@ require (
 	github.com/magic-lib/go-plat-utils v1.20260210.2-0.20260304083313-c15d4286b3ec
 	github.com/streadway/amqp v1.1.0
 	github.com/zeromicro/go-zero v1.9.4
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.65.0
 	go.opentelemetry.io/otel v1.41.0
 	go.opentelemetry.io/otel/exporters/jaeger v1.17.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.24.0
